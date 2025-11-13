@@ -89,5 +89,5 @@ async function run() {
 run().catch(console.dir);
 
 app.listen(port, () => {
-  console.log(`smart server is running on port: ${port}`);
+  console.log(`smart server is running now on port: ${port}`);
 });
